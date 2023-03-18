@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "RegistrarUsuario";
+    
+}
+
+
+<link href="~/Content/CSS/Anim.css" rel="stylesheet" />
+
+
+<div style="text-align:center; margin-top:100px">
+
+    <div class="shadow-drop-2-center" style="margin:0px auto; width:50%">
+
+        <div class="fade-in">
+            <br />
+            <label class="text-primary">
+                Registrate Gratis
+            </label>
+            <br />
+            <label class="text-danger">
+                @ViewBag.LoginError
+            </label>
+            <br />
+            <form action="@Url.Action("RegistrarUsuario" , "Login")" method="post">
+                <input type="text" id="nombre" class="form-control" style="margin:0px auto; text-align:center" name="nombre" placeholder="Nombre" pattern="[A-Za-z0-9]{1,30}" title="Los siguietes caracteres no son validos .!$%^&*()-_/" required>
+                <br />
+                <input type="text" id="app" class="form-control" style="margin:0px auto; text-align:center" name="app" placeholder="Apellido paterno" pattern="[A-Za-z0-9]{1,30}" title="Los siguietes caracteres no son validos .!$%^&*()-_/" required>
+                <br />
+                <input type="text" id="apm" class="form-control" style="margin:0px auto; text-align:center" name="apm" placeholder="Apellido materno" pattern="[A-Za-z0-9]{1,30}" title="Los siguietes caracteres no son validos .!$%^&*()-_/" required>
+                <br />
+                <input type="text" id="usuario" class="form-control" style="margin:0px auto; text-align:center" name="usuario" placeholder="Nombre de usuario" pattern="[A-Za-z0-9]{1,30}" title="Los siguietes caracteres no son validos .!$%^&*()-_/" required>
+                <br />
+                <input type="password" id="contraseña" class="form-control " style="margin: 0px auto; text-align: center" name="contraseña" placeholder="Contraseña" pattern="[A-Za-z0-9]{1,30}" title="Los siguietes caracteres no son validos .!$%^&*()-_/" required>
+                <br />
+                <input type="submit" class="btn btn-primary" value="Registrar" style="width:60%">
+            </form>
+            <br />
+            <br />
+
+        </div>
+
+
+
+
+    </div>
+
+</div>

@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="MisistemaModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Modulo">
+    <Key>
+      <PropertyRef Name="Id_modulo" />
+    </Key>
+    <Property Name="Id_modulo" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre_modulo" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Operaciones">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="50" />
+    <Property Name="Id_modulo" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Roles">
+    <Key>
+      <PropertyRef Name="Id_rol" />
+    </Key>
+    <Property Name="Id_rol" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Nombre_roles" Type="varchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="RolOperaciones">
+    <Key>
+      <PropertyRef Name="id" />
+    </Key>
+    <Property Name="id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Id_operacion" Type="int" Nullable="false" />
+    <Property Name="Id_rol" Type="int" Nullable="false" />
+  </EntityType>
+  <EntityType Name="Usuarios">
+    <Key>
+      <PropertyRef Name="id_usuario" />
+    </Key>
+    <Property Name="id_usuario" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="nombre" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="app" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="apm" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="usuario" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="contraseña" Type="varchar" MaxLength="50" Nullable="false" />
+    <Property Name="Id_rol" Type="int" Nullable="false" />
+  </EntityType>
+  <Association Name="FK_Operaciones_Modulo">
+    <End Role="Modulo" Type="Self.Modulo" Multiplicity="1" />
+    <End Role="Operaciones" Type="Self.Operaciones" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Modulo">
+        <PropertyRef Name="Id_modulo" />
+      </Principal>
+      <Dependent Role="Operaciones">
+        <PropertyRef Name="Id_modulo" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RolOperaciones_Operaciones">
+    <End Role="Operaciones" Type="Self.Operaciones" Multiplicity="1" />
+    <End Role="RolOperaciones" Type="Self.RolOperaciones" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Operaciones">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="RolOperaciones">
+        <PropertyRef Name="Id_operacion" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_RolOperaciones_Roles">
+    <End Role="Roles" Type="Self.Roles" Multiplicity="1" />
+    <End Role="RolOperaciones" Type="Self.RolOperaciones" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Roles">
+        <PropertyRef Name="Id_rol" />
+      </Principal>
+      <Dependent Role="RolOperaciones">
+        <PropertyRef Name="Id_rol" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Usuarios_Roles">
+    <End Role="Roles" Type="Self.Roles" Multiplicity="1" />
+    <End Role="Usuarios" Type="Self.Usuarios" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Roles">
+        <PropertyRef Name="Id_rol" />
+      </Principal>
+      <Dependent Role="Usuarios">
+        <PropertyRef Name="Id_rol" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="MisistemaModelStoreContainer">
+    <EntitySet Name="Modulo" EntityType="Self.Modulo" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Operaciones" EntityType="Self.Operaciones" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Roles" EntityType="Self.Roles" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="RolOperaciones" EntityType="Self.RolOperaciones" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Usuarios" EntityType="Self.Usuarios" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Operaciones_Modulo" Association="Self.FK_Operaciones_Modulo">
+      <End Role="Modulo" EntitySet="Modulo" />
+      <End Role="Operaciones" EntitySet="Operaciones" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RolOperaciones_Operaciones" Association="Self.FK_RolOperaciones_Operaciones">
+      <End Role="Operaciones" EntitySet="Operaciones" />
+      <End Role="RolOperaciones" EntitySet="RolOperaciones" />
+    </AssociationSet>
+    <AssociationSet Name="FK_RolOperaciones_Roles" Association="Self.FK_RolOperaciones_Roles">
+      <End Role="Roles" EntitySet="Roles" />
+      <End Role="RolOperaciones" EntitySet="RolOperaciones" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Usuarios_Roles" Association="Self.FK_Usuarios_Roles">
+      <End Role="Roles" EntitySet="Roles" />
+      <End Role="Usuarios" EntitySet="Usuarios" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

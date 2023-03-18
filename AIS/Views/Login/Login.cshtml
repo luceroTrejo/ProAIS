@@ -1,0 +1,30 @@
+﻿
+@{
+    ViewBag.Title = "Login";
+}
+
+<h2>Login</h2>
+
+<div class="row">
+    <div class="danger">
+        @ViewBag.Error
+    </div>
+    <form action="@Url.Content("~/Login/Login")" method="post">
+        <div class="form-group">
+            <label>Usuario</label>
+            <input type="text" name="User" />
+        </div>
+        <div class="form-group">
+            <label>Contraseña</label>
+            <input type="password" name="Pass" />
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Entrar" class="btn btn-success" />
+        </div>
+    </form>
+        <div class="form-group">
+            @Html.ActionLink("Registrate bobo", "RegistrarUsuario", "Login")
+        </div>
+
+</div>
+

@@ -1,0 +1,166 @@
+C:\Users\Yoo\source\repos\AIS\AIS\bin\AIS.dll.config
+C:\Users\Yoo\source\repos\AIS\AIS\bin\AIS.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\AIS.pdb
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\csc.exe
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\csc.exe.config
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\csc.rsp
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\csi.exe
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\csi.exe.config
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\csi.rsp
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.AppContext.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.Console.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.Net.Http.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\vbc.exe
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\vbc.exe.config
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\vbc.rsp
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yoo\source\repos\AIS\AIS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yoo\source\repos\AIS\AIS\bin\Antlr3.Runtime.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\Newtonsoft.Json.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\System.Web.Helpers.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\System.Web.Mvc.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\System.Web.Optimization.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\System.Web.Razor.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\System.Web.WebPages.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\WebGrease.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\System.Web.Helpers.xml
+C:\Users\Yoo\source\repos\AIS\AIS\bin\System.Web.Mvc.xml
+C:\Users\Yoo\source\repos\AIS\AIS\bin\System.Web.Optimization.xml
+C:\Users\Yoo\source\repos\AIS\AIS\bin\System.Web.Razor.xml
+C:\Users\Yoo\source\repos\AIS\AIS\bin\System.Web.WebPages.xml
+C:\Users\Yoo\source\repos\AIS\AIS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yoo\source\repos\AIS\AIS\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yoo\source\repos\AIS\AIS\bin\Newtonsoft.Json.xml
+C:\Users\Yoo\source\repos\AIS\AIS\bin\Antlr3.Runtime.pdb
+C:\Users\Yoo\source\repos\AIS\AIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yoo\source\repos\AIS\AIS\obj\Debug\AIS.csproj.AssemblyReference.cache
+C:\Users\Yoo\source\repos\AIS\AIS\obj\Debug\AIS.csproj.CoreCompileInputs.cache
+C:\Users\Yoo\source\repos\AIS\AIS\obj\Debug\AIS.csproj.CopyComplete
+C:\Users\Yoo\source\repos\AIS\AIS\obj\Debug\AIS.dll
+C:\Users\Yoo\source\repos\AIS\AIS\obj\Debug\AIS.pdb
+C:\Users\Yoo\source\repos\AIS\AIS\bin\EntityFramework.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\EntityFramework.SqlServer.dll
+C:\Users\Yoo\source\repos\AIS\AIS\bin\EntityFramework.xml
+C:\Users\Yoo\source\repos\AIS\AIS\bin\EntityFramework.SqlServer.xml
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\AIS.dll.config
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\AIS.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\AIS.pdb
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\csc.exe
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\csc.exe.config
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\csc.rsp
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\csi.exe
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\csi.exe.config
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\csi.rsp
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.AppContext.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.Console.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.IO.Compression.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.Net.Http.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.ValueTuple.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\vbc.exe
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\vbc.exe.config
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\vbc.rsp
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\Antlr3.Runtime.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\EntityFramework.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\EntityFramework.SqlServer.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\Newtonsoft.Json.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\System.Web.Helpers.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\System.Web.Mvc.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\System.Web.Optimization.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\System.Web.Razor.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\System.Web.WebPages.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\System.Web.WebPages.Razor.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\WebGrease.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\EntityFramework.xml
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\EntityFramework.SqlServer.xml
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\System.Web.Helpers.xml
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\System.Web.Mvc.xml
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\System.Web.Optimization.xml
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\System.Web.Razor.xml
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\System.Web.WebPages.xml
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\System.Web.WebPages.Razor.xml
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\Newtonsoft.Json.xml
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\Antlr3.Runtime.pdb
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\obj\Debug\AIS.csproj.CoreCompileInputs.cache
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\obj\Debug\AIS.csproj.CopyComplete
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\obj\Debug\AIS.dll
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\obj\Debug\AIS.pdb
+C:\Users\Yoo\source\repos\Todos mis proyectos\AIS\AIS\obj\Debug\AIS.csproj.AssemblyReference.cache
